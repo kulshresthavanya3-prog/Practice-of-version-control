@@ -1,4 +1,4 @@
-# Practice-of-version-control
+# Practice-of-version-control "to view in pointwise the open in edit mode"
 This is practice of all git commands
 git init initializes a new Git repository in the current folder to start tracking changes.
 cat README.md displays the contents of the README.md file in the terminal.
